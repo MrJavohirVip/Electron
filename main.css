@@ -66,6 +66,12 @@ body{
     gap: 30px;
 }
 
+.elements1{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+
 
 .inputs1 {
   position: relative;
